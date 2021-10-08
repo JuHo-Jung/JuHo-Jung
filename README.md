@@ -17,10 +17,10 @@
 python , C-language, Postgres, MySQL, Visual Studio Code, DBeaver
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 
 
 
