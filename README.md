@@ -16,7 +16,24 @@
 **Languages and Tools**
 python , C-language, Postgres, MySQL, Visual Studio Code, DBeaver
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **JuHo-Jung/JuHo-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
