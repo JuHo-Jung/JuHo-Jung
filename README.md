@@ -21,8 +21,8 @@ python , C-language, C++, Postgres, MySQL, Visual Studio Code, DBeaver
 <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-orange?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-informational?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-green?style=flat-square&logo=Postgresql&logoColor=white"/></a>
 
 
 
