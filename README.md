@@ -7,7 +7,7 @@
 - 2020 College of Computing and Informatics, Sungkyunkwan University(SKKU)
 - 2020 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
 
-**Publications (논문)**
+**Publications**
 
 
 [2nd Author]Analysis on mannose-binding lectin as a treatment of nelicobacter pylori by using. 19th International Conference on Advanced Communication Technology(ICACT) (2017)
