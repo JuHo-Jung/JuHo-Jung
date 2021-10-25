@@ -9,6 +9,7 @@
 
 **AWARDS**
 - 2021 성균관대학교 융합기초프로젝트 총장상 우수상 
+- 2021 성균관대학교 하계 Python Boot Camp 수료
 - 2021 AI x SW HACKATHON (Sponsor : Naver Clover, LG UPlus) 장려상 
 
 
