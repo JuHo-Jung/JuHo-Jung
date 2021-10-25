@@ -6,7 +6,11 @@
 - 2019 College of Engineering, Sungkyunkwan University(SKKU)
 - 2020 College of Computing and Informatics, Sungkyunkwan University(SKKU)
 - 2020 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+
+**AWARDS**
+- 2021 성균관대학교 융합기초프로젝트 총장상 우수상 
 - 2021 AI x SW HACKATHON (Sponsor : Naver Clover, LG UPlus) 장려상 
+
 
 **Publications**
 
