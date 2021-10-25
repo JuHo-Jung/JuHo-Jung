@@ -6,6 +6,7 @@
 - 2019 College of Engineering, Sungkyunkwan University(SKKU)
 - 2020 College of Computing and Informatics, Sungkyunkwan University(SKKU)
 - 2020 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+- 2021 AI x SW HAKERTON (Naver Clover, LG UPlus) 장려상 
 
 **Publications**
 
