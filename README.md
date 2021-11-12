@@ -21,7 +21,7 @@
 [1st Author]Diabetes Prediction mechanism using machine learning model based on patient. Journal of the Korea Institute of Information and (JKIICE) (2021)
 
 **Languages and Tools**
-python , C-language, C++, Postgres, MySQL, Visual Studio Code, DBeaver
+python , C-language, C++, JavaScript, Kotlin, PostgreSQL, MySQL, Visual Studio Code, DBeaver
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/></a>
