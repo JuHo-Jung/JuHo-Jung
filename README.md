@@ -20,7 +20,9 @@
 
 [1st Author]Diabetes Prediction mechanism using machine learning model based on patient. Journal of the Korea Institute of Information and (JKIICE) (2021)
 
-**Publications**
+**Patents**
+
+
 [2022.07.20] Kwanghyeon Kim, Juho Jung, Juyong Park, Geonwoo Park, "METHOD FOR IMAGE ANALYZING ABOUT LUXATING PATELLA", patents-10-2022-0089356 
 
 
