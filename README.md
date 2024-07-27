@@ -9,12 +9,6 @@
 - 2017 Hankuk Academy of Foreign Studies, Natural Science
 
 
-**Selected AWARDS**
-- 2021 성균관대학교 융합기초프로젝트 총장상 우수상 
-- 2021 성균관대학교 하계 Python Boot Camp 수료
-- 2021 AI x SW HACKATHON (Sponsor : Naver Clover, LG UPlus) 장려상 
-- 2022 제2회 의료 빅데이터 활용 인공지능 AI 영상진단 개발 해커톤 우수상, 산업부장관상 (주관: 산업통상자원부, 후원: 카카오)
-
 
 **Languages and Tools**
 python , C, C++, JavaScript, Kotlin, PostgreSQL, MySQL, Visual Studio Code, DBeaver
